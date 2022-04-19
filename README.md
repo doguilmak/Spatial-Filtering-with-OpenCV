@@ -2,7 +2,7 @@
 
 ## Project Summary
 
-Spatial operations use pixels in a neighborhood to determine the present pixel value. Applications include filtering and sharpening. They are used in many steps in computer vision like segmentation and are a key building block in Artificial Intelligence algorithms. In this repositroy, you can see examples about usage of spatial operations in image processing.  All details are in **spatial_filtering.ipynb** file. The information acquired under this project was entirely acquired by **IBM**.
+Spatial operations use pixels in a neighborhood to determine the present pixel value. Applications include filtering and sharpening. They are used in many steps in computer vision like segmentation and are a key building block in Artificial Intelligence algorithms. In this repositroy, you can see examples about usage of spatial operations in image processing.  All details are in **spatial_filtering.ipynb** file. Rendering may take a long time or give an error. In this case, please refresh the page and wait for it to open again. The information acquired under this project was entirely acquired by **IBM**.
 
 ## How to Run Code
 
