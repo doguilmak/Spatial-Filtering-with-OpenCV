@@ -12,15 +12,27 @@
 
 <br>
 
-<h2>How to Run Code</h2>
-
-<p>Before running the code make sure that you have these libraries:</p>
-
+<h2>Objective:</h2>
 
 <ul>
-  <li>matplotlib</li>
-  <li>numpy</li>
-  <li>opencv</li>
+  <li>Making linear filtering on image.</li>
+  <li>Filtering noise on image.</li>
+  <li>Apply Gaussian blur on image.</li>
+  <li>Sharpening the image.</li>
+  <li>Use median filters.</li>
+</ul>
+
+<br>
+
+<h2>Keywords</h2>
+
+<ul>
+  <li>Geometric operations</li>
+  <li>OpenCV</li>
+  <li>Mathematical Tools</li>
+  <li>Gaussian blur</li>
+  <li>Linear filtering</li>
+  <li>Median</li>
 </ul>
 
 <br>
